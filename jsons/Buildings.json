@@ -21,7 +21,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Arsenal",
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["[+3 Production, +3 Science] [in this city] <with [Vibranium]>",
+		"uniques": ["[+5 Production, +5 Science] [in this city] <with [Vibranium]>",
             "Destroyed when the city is captured"]
     },
     {
@@ -32,7 +32,7 @@
         "cost": 1,
         "science": 1,
         "uniques": ["Provides [1] [Vibranium]",
-            "[+10 Culture, +10 Science, +10 Happiness, +10 Faith, +10 Gold, +10 Food, +10 Production] [in all cities]",
+            "[+50 Culture, +50 Science, +50 Happiness, +50 Faith, +50 Gold, +100 Food, +50 Production] [in all cities]",
             "Free [Black Panther] appears",
             "Gain a free [Monument] [in this city]",
             "Will not be displayed in Civilopedia"],
@@ -138,7 +138,7 @@
         "isWonder": "true",
         "cost": 500,
         "science": 1,
-        "uniques": ["[+2 Production] [in all cities]",
+        "uniques": ["[+5 Production] [in all cities]",
             "[+15]% Production when constructing [Military] units [in all cities]",
             "Provides [2] [Uranium]",
             "Double quantity of [Uranium] produced",
